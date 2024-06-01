@@ -1,5 +1,5 @@
 {
-  "name": "xoshbin/laravel-inbox",
+  "name": "muluc/laravel-inbox",
   "description": "Receive and send emails from your project with Laravel",
   "type": "library",
   "license": "MIT",
